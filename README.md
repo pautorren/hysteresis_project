@@ -1,5 +1,3 @@
 # hysteresis_project
 
-R code for single cell data analysis. 
-
-Project about the study of hysteresis in EMT 
+R code for single cell multiome data analysis
